@@ -1,0 +1,69 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Sections\n \n\n\nElectronics and Instrumentation Section\n\n\nSection Coordinator: Bogdan Vacaliuc \n\n\nBackground and Context\n\n\nAdvances in electronics have offered amateur radio astronomers new relatively low cost instrumentation to observe radio emitting sources.  Additionally, amateur astronomers have opportunities to use professional radio telescopes that have become available through public outreach grants.\n\n\nNRAO 40 Foot Dish and Jansky Antenna\n\n\nThe Forty-foot Telescope, was constructed in the early 60s for the purpose of determining if radio sources are variable. The Forty Foot Telescope is currently an educational instrument available to SARA members.  The NRAO also is host to a replica of Jansky's original antenna, also available to SARA members.\n\n\nRelated Radio Astronomy Project(s) and/or Information:\n\n\nhttps://science.nrao.edu/facilities/gbt/other-telescopes/40foot\n\n\nUNC Skynet and On-line Radio Telescope Resources\n\n\nSKYNET is a distributed network of robotic telescopes operated by students, faculty, and staff at the University of North Carolina at Chapel Hill, and is available to SARA members upon request.\n\n\nRelated Radio Astronomy Project(s) and/or Information:\n\n\nhttp://skynet.unc.edu/introastro/\n\n\nArduino\n\n\nArduino is a single-board micro-controller, intended to make the application of interactive objects or environments more accessible, and has radio astronomy applications.\n\n\nRelated Radio Astronomy Project(s) and/or Information:\n\n\nhttp://cygnusa.blogspot.com/2013/02/arduino-and-radio-skypipe.html\n\n\nRaspberry Pi\n\n\nThe Raspberry Pi is a credit-card sized computer that plugs into your TV and a keyboard. It is a capable little computer that can be used in electronics projects, including radio astronomy applications.\n\n\nRelated Radio Astronomy Project(s) and/or Information:\n\n\nhttp://radioadastra.blogspot.com.au/2013/08/receiving-radio-noise.html\n\n\nSoftware Defined Radio (SDR)\n\n\nSDR is defined as radio in which some or all of the physical layer functions are software defined.  SDR is a radio communication system where components that have been typically implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer. It has radio astronomy applications.\n\n\nRelated Radio Astronomy Project(s) and/or Information:\n\n\nhttp://www.rtl-sdr.com/rtl-sdr-for-budget-radio-astronomy/\n\n\nhttp://www.rtl-sdr.com/category/radio-astronomy-2/\n\n\nhttp://www.rfspace.com/RFSPACE/Astronomy.html\n\n\nRASDR\n\n\nA RASDR design team will release a software defined receiver (SDR) for radio astronomy called RASDR2.\n\n\nRelated Radio Astronomy Project(s) and/or Information:\n\n\nhttp://www.radio-astronomy.org/rasdr\n\n\nhttp://myriadrf.org/rasdr/\n\n\nThe Itty Bitty Telescope (IBT)\n\n\nThe IBT radio telescope is made from a small satellite dish and affordable components.\n\n\nRelated Radio Astronomy Project(s) and/or Information:\n\n\nhttp://www.radio-astronomy.org/pdf/lbt.pdf\n\n\n408 MHz Receiver Project\n\n\nThe GEM, Galactic Emission Mapping, is an international project with the goal of making a precise map of the electromagnetic spectrum of our galaxy at low frequencies (radio and microwaves). The GEM Radio Telescope measures the radio emission of our galaxy in five frequencies, between 408 MHz and 10 GHz.\n\n\nRelated Radio Astronomy Project(s) and/or Information:\n\n\nhttp://www.phasorlabs.com/rasararx.htm\n\n\nAntennas, Ancillary Components, and Test Equipment\n\n\nSee references for many applications in this sub-section.\n\n\nhttp://www.rfspace.com/RFSPACE/Home.html\n\n\nhttp://www.radio-astronomy.org/node/120\n\n\nhttp://www.radio-astronomy.org/node/121\n\n\nhttp://www.radio-astronomy.org/node/122\n\n\nhttp://gnuradio.org/redmine/projects/gnuradio/wiki\n\n\nhttp://www.qsl.net/n1bwt/preface.htm\n\n\nUnder Construction\n\n\n\n\nRadio Observing Award Programs\n\n\nLinks (including related topics in the SARA Listserv Archive, and \nSARA Journal Table of Contents\n)\n\n\nReferences\n\n\nGlossary: \nhttp://www.radio-astronomy.org/pdf/SARA%20Glossary.pdf\n\n\n\n\n\n\nSARA is dedicated to the exploration of radio astronomy at the amateur level. Many amateurs are engaged in developing hardware, software, and methodologies to expand the limits of amateur radio observation. Such amateurs impose intriguing opportunities. With peer review, they can develop new approaches to radio astronomy observation, or offer an equally valuable dissertation on explanations to misidentified radio observations and their nature.  SARA welcomes positive diversity of opinion but does not necessarily embrace those opinions as it own.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#electronics-and-instrumentation-section", 
+            "text": "Section Coordinator: Bogdan Vacaliuc", 
+            "title": "Electronics and Instrumentation Section"
+        }, 
+        {
+            "location": "/#background-and-context", 
+            "text": "Advances in electronics have offered amateur radio astronomers new relatively low cost instrumentation to observe radio emitting sources.  Additionally, amateur astronomers have opportunities to use professional radio telescopes that have become available through public outreach grants.", 
+            "title": "Background and Context"
+        }, 
+        {
+            "location": "/#nrao-40-foot-dish-and-jansky-antenna", 
+            "text": "The Forty-foot Telescope, was constructed in the early 60s for the purpose of determining if radio sources are variable. The Forty Foot Telescope is currently an educational instrument available to SARA members.  The NRAO also is host to a replica of Jansky's original antenna, also available to SARA members.  Related Radio Astronomy Project(s) and/or Information:  https://science.nrao.edu/facilities/gbt/other-telescopes/40foot", 
+            "title": "NRAO 40 Foot Dish and Jansky Antenna"
+        }, 
+        {
+            "location": "/#unc-skynet-and-on-line-radio-telescope-resources", 
+            "text": "SKYNET is a distributed network of robotic telescopes operated by students, faculty, and staff at the University of North Carolina at Chapel Hill, and is available to SARA members upon request.  Related Radio Astronomy Project(s) and/or Information:  http://skynet.unc.edu/introastro/", 
+            "title": "UNC Skynet and On-line Radio Telescope Resources"
+        }, 
+        {
+            "location": "/#arduino", 
+            "text": "Arduino is a single-board micro-controller, intended to make the application of interactive objects or environments more accessible, and has radio astronomy applications.  Related Radio Astronomy Project(s) and/or Information:  http://cygnusa.blogspot.com/2013/02/arduino-and-radio-skypipe.html", 
+            "title": "Arduino"
+        }, 
+        {
+            "location": "/#raspberry-pi", 
+            "text": "The Raspberry Pi is a credit-card sized computer that plugs into your TV and a keyboard. It is a capable little computer that can be used in electronics projects, including radio astronomy applications.  Related Radio Astronomy Project(s) and/or Information:  http://radioadastra.blogspot.com.au/2013/08/receiving-radio-noise.html", 
+            "title": "Raspberry Pi"
+        }, 
+        {
+            "location": "/#software-defined-radio-sdr", 
+            "text": "SDR is defined as radio in which some or all of the physical layer functions are software defined.  SDR is a radio communication system where components that have been typically implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer. It has radio astronomy applications.  Related Radio Astronomy Project(s) and/or Information:  http://www.rtl-sdr.com/rtl-sdr-for-budget-radio-astronomy/  http://www.rtl-sdr.com/category/radio-astronomy-2/  http://www.rfspace.com/RFSPACE/Astronomy.html", 
+            "title": "Software Defined Radio (SDR)"
+        }, 
+        {
+            "location": "/#rasdr", 
+            "text": "A RASDR design team will release a software defined receiver (SDR) for radio astronomy called RASDR2.  Related Radio Astronomy Project(s) and/or Information:  http://www.radio-astronomy.org/rasdr  http://myriadrf.org/rasdr/", 
+            "title": "RASDR"
+        }, 
+        {
+            "location": "/#the-itty-bitty-telescope-ibt", 
+            "text": "The IBT radio telescope is made from a small satellite dish and affordable components.  Related Radio Astronomy Project(s) and/or Information:  http://www.radio-astronomy.org/pdf/lbt.pdf", 
+            "title": "The Itty Bitty Telescope (IBT)"
+        }, 
+        {
+            "location": "/#408-mhz-receiver-project", 
+            "text": "The GEM, Galactic Emission Mapping, is an international project with the goal of making a precise map of the electromagnetic spectrum of our galaxy at low frequencies (radio and microwaves). The GEM Radio Telescope measures the radio emission of our galaxy in five frequencies, between 408 MHz and 10 GHz.  Related Radio Astronomy Project(s) and/or Information:  http://www.phasorlabs.com/rasararx.htm", 
+            "title": "408 MHz Receiver Project"
+        }, 
+        {
+            "location": "/#antennas-ancillary-components-and-test-equipment", 
+            "text": "See references for many applications in this sub-section.  http://www.rfspace.com/RFSPACE/Home.html  http://www.radio-astronomy.org/node/120  http://www.radio-astronomy.org/node/121  http://www.radio-astronomy.org/node/122  http://gnuradio.org/redmine/projects/gnuradio/wiki  http://www.qsl.net/n1bwt/preface.htm", 
+            "title": "Antennas, Ancillary Components, and Test Equipment"
+        }, 
+        {
+            "location": "/#under-construction", 
+            "text": "Radio Observing Award Programs  Links (including related topics in the SARA Listserv Archive, and  SARA Journal Table of Contents )  References  Glossary:  http://www.radio-astronomy.org/pdf/SARA%20Glossary.pdf    SARA is dedicated to the exploration of radio astronomy at the amateur level. Many amateurs are engaged in developing hardware, software, and methodologies to expand the limits of amateur radio observation. Such amateurs impose intriguing opportunities. With peer review, they can develop new approaches to radio astronomy observation, or offer an equally valuable dissertation on explanations to misidentified radio observations and their nature.  SARA welcomes positive diversity of opinion but does not necessarily embrace those opinions as it own.", 
+            "title": "Under Construction"
+        }
+    ]
+}
